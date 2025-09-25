@@ -22,7 +22,28 @@ boodschap en knipperlicht.
 2. Kies een optie uit het menu door het nummer in te voeren.
 3. Volg de instructies op het scherm.
 
-### Voorbeeld menu
+### Voorbeeld menu codes
+
+![image](https://github.com/kiranchaudry97/Oefening_Gebruik_van_delegates/blob/7a80be30979bc72cac4bb3b34829475aafb1b006/Opdracht_screenshots/menu_keuze_codes.png)
+
+![image](https://github.com/kiranchaudry97/Oefening_Gebruik_van_delegates/blob/7a80be30979bc72cac4bb3b34829475aafb1b006/Opdracht_screenshots/swtich_case.png)
+
+
+![image](https://github.com/kiranchaudry97/Oefening_Gebruik_van_delegates/blob/7a80be30979bc72cac4bb3b34829475aafb1b006/Opdracht_screenshots/switch_case_1.png)
+
+![image](https://github.com/kiranchaudry97/Oefening_Gebruik_van_delegates/blob/7a80be30979bc72cac4bb3b34829475aafb1b006/Opdracht_screenshots/switch_case_2.png)
+
+![image](https://github.com/kiranchaudry97/Oefening_Gebruik_van_delegates/blob/7a80be30979bc72cac4bb3b34829475aafb1b006/Opdracht_screenshots/Methodes.png)
+### Voorbeeld menu 
+
+
+![image](https://github.com/kiranchaudry97/Oefening_Gebruik_van_delegates/blob/7a80be30979bc72cac4bb3b34829475aafb1b006/Opdracht_screenshots/gekozen.png)
+
+![image](https://github.com/kiranchaudry97/Oefening_Gebruik_van_delegates/blob/7a80be30979bc72cac4bb3b34829475aafb1b006/Opdracht_screenshots/de_boodschap.png)
+
+
+![image](https://github.com/kiranchaudry97/Oefening_Gebruik_van_delegates/blob/7a80be30979bc72cac4bb3b34829475aafb1b006/Opdracht_screenshots/voorbeeld1.png)
+
+
 
 ![image]()
-*beschrijving*

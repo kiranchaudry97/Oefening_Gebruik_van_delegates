@@ -23,3 +23,6 @@ boodschap en knipperlicht.
 3. Volg de instructies op het scherm.
 
 ### Voorbeeld menu
+
+![image]()
+*beschrijving*
